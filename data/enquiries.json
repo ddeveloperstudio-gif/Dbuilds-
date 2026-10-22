@@ -1,0 +1,19 @@
+[
+  {
+    "id": "DB-261021-DADEC6",
+    "customerName": "Sarah Jenkins",
+    "customerEmail": "sarah@luminastudio.com",
+    "businessName": "Lumina Studio",
+    "projectType": "Creative Digital Experience",
+    "budget": "$3,500+",
+    "description": "We need an immersive, high-end portfolio website for our creative design studio with smooth scroll transitions and 3D depth.",
+    "status": "contacted",
+    "createdAt": "2026-10-21T11:11:40.057Z",
+    "updatedAt": "2026-10-21T11:12:00.566Z",
+    "notificationStatus": "not_configured",
+    "notificationAttempts": 2,
+    "internalNotes": "Sent introductory scope questionnaire on Oct 21.",
+    "notificationError": "RESEND_API_KEY is not set in environment secrets. Email notification recorded as not configured.",
+    "lastNotificationAttemptAt": "2026-10-21T11:12:00.566Z"
+  }
+]
